@@ -12,4 +12,4 @@ print("Bilangan terbesar adalah ", max)
 
 # images in readmes
 
-![ss](https://user-images.githubusercontent.com/73054799/100622959-148d3500-3354-11eb-88d6-cbbd4549384c.png)
+![Screenshot from 2020-11-30 21-55-03](https://user-images.githubusercontent.com/73054799/100625134-c3cb0b80-3356-11eb-9be0-733d23940402.png)
